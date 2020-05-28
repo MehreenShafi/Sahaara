@@ -16,11 +16,11 @@ records = sheet.get_all_records()
 print(records[0])
  """
 
-mdFile = MdUtils(file_name='Employees.md', title='Sahaara')
+mdFile = MdUtils(file_name='Employees.md', title='Sahaara - A Database for Disabled Community Employees')
 
-mdFile.new_header(level=1, title='Sahaara - A Database for Disabled Community Employees')  # style is set 'atx' format by default.
+#mdFile.new_header(level=1, title='')  # style is set 'atx' format by default.
 
-mdFile.new_paragraph("This is a directory for potential employees looking for employments.")
+mdFile.new_paragraph("This is a directory for potential employees from the diabled community, looking for employments. Please fill the form at https://forms.gle/dFsK2AK5pbKV8xR46 to add your data into the database.")
 text_list = ['Name', 'Skills', 'Past Experience', 'Person 1', 'skills', 'XYZ', 'Person 2', 'skills 2', 'ABC']
 table = mdFile.new_table(columns=3, rows=3, text=text_list, text_align='center')
 
