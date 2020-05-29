@@ -12,10 +12,10 @@ Greetings! This online portal is meant to collect useful information about compa
 
 ## Looking for a job?
 
-Please use the file titled Employers to browse places that are currently open for hire.
+Please use the file titled _Employers_ to browse places that are currently open for hire.
 
 ## Have a Vacancy?
 
-If you have an open position for PWD and wish to browse CVs of potential employees, please have a look at the file titled Employees
+If you have an open position for PWD and wish to browse CVs of potential employees, please have a look at the file titled _Employees_
 
 
