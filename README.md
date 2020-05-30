@@ -1,4 +1,6 @@
 
+![sahaara-header](sahaara-header.png)
+
 Sahaara - An Easy Access Job Directory for PWD
 =====================================================
 
