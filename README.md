@@ -22,9 +22,9 @@ If you have an open position for PWD and wish to browse the pool of potential em
 
 ## Contact
 
-For urgent help or queries, please contact one of us at the emails below.
+For urgent help or queries, please contact one of us at the emails listed below.
 
-**Anisa**:  aa04049@st.habib.edu.pk
+**Anisa**:  aa04049@st.habib.edu.pk   
 **Mehreen**: ms04030@st.habib.edu.pk
 
 
