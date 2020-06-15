@@ -18,6 +18,17 @@ Please use the file titled _Employers_ to browse places that are currently open 
 
 ## Have a Vacancy?
 
-If you have an open position for PWD and wish to browse CVs of potential employees, please have a look at the file titled _Employees_
+If you have an open position for PWD and wish to browse the pool of potential employees according to their skillsets, please have a look at the file titled _Employees_
+
+## Contact
+
+For urgent help or queries, please contact one of us at the emails below.
+
+**Anisa**:  aa04049@st.habib.edu.pk
+**Mehreen**: ms04030@st.habib.edu.pk
+
+
+
+
 
 
