@@ -11,3 +11,7 @@ This is the pool of applicants from the disabled community, that are currently l
 | :---: | :---: |
 |Tech skills|0|
 |Manangement|0|
+|Teaching|0|
+|Marketing|0|
+|Content Writing|0|
+|Accounting and Finance|0|
