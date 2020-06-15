@@ -9,5 +9,5 @@ This is the pool of applicants from the diabled community, that are currently lo
 
 |Skills|Candidate Count|
 | :---: | :---: |
-|Tech skills|2|
-|Manangement|3|
+|Tech skills|0|
+|Manangement|0|
