@@ -24,7 +24,9 @@ If you have an open position for PWDs and wish to browse the pool of potential e
 
 ## Contact
 
-For urgent help or queries, please contact one of us at the emails listed below.
+For urgent help or queries, please contact us at one of the emails listed below.
+
+**Main contact**: sahaara.directory@gmail.com
 
 **Anisa**:  aa04049@st.habib.edu.pk   
 **Mehreen**: ms04030@st.habib.edu.pk
